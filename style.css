@@ -1,0 +1,27 @@
+.sample1{
+    color:rgb(100, 65, 196);
+    background-color: beige;
+}
+.a{
+    color: aqua;
+    background-color: black;
+}
+.b{
+    color:red;
+}
+#heading{
+    color:blueviolet;
+    background-color: aqua;
+}
+img{
+    margin:10px 50px 70px 800px;
+    border: 8px double rgb(65, 196, 183);
+    padding: 20px 20px 20px;
+}
+body{
+    background-color: rgb(73, 75, 79);
+    background-image: url(traveling.jpg);
+}
+.c{
+    color: aliceblue;
+}
